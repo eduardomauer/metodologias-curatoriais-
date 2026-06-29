@@ -1,0 +1,34 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "CreativeWork",
+  "name": "MILK curatorial methodologies",
+  "description": "Public reviewed curatorial documentation layer for cultural mediation, territorial memory and interpretative governance within the Associação MILK ecosystem.",
+  "codeRepository": "https://github.com/eduardomauer/metodologias-curatoriais-",
+  "version": "0.1.0",
+  "license": "https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Eduardo Mauricio Vieira",
+      "familyName": "Cabral e Araujo",
+      "alternateName": "Eduardo Mauer",
+      "identifier": "https://orcid.org/0009-0007-6892-6570"
+    },
+    {
+      "@type": "Organization",
+      "name": "Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte",
+      "identifier": "https://orcid.org/0009-0004-9132-2925"
+    }
+  ],
+  "keywords": [
+    "MILK",
+    "curatorial methodology",
+    "cultural mediation",
+    "territorial memory",
+    "interpretative governance",
+    "Portugal",
+    "public documentation"
+  ],
+  "developmentStatus": "release-candidate",
+  "isPartOf": "Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte"
+}
