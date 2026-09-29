@@ -1,0 +1,28 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "CreativeWork",
+  "name": "MILK curatorial methodologies",
+  "description": "Public reviewed curatorial documentation layer. Rights are defined per file/resource; no blanket software licence is asserted.",
+  "codeRepository": "https://github.com/eduardomauer/metodologias-curatoriais-",
+  "version": "0.1.0",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Eduardo Mauricio Vieira",
+      "familyName": "Cabral e Araujo",
+      "alternateName": "Eduardo Mauer",
+      "identifier": "https://orcid.org/0009-0007-6892-6570"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte"
+  },
+  "keywords": [
+    "MILK",
+    "curatorial methodology",
+    "cultural mediation",
+    "Portugal"
+  ],
+  "developmentStatus": "active"
+}
